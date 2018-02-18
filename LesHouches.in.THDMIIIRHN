@@ -70,7 +70,7 @@ Block EPSEIN    #
 3 2   0.000000E+00         # epsE(3,2)
 3 3   0.000000E+00         # epsE(3,3)
 Block EPSNIN    #  
-1   1.000000E-01         # epsN(1)
+1   1.000000E-05         # epsN(1)
 2   0.000000E+00         # epsN(2)
 3   0.000000E+00         # epsN(3)
 Block EPSUIN    #  
@@ -84,7 +84,7 @@ Block EPSUIN    #
 3 2   0.000000E+00         # epsU(3,2)
 3 3   0.000000E+00         # epsU(3,3)
 Block YNIN    #  
-1   1.000000E-01         # Yn(1)
+1   1.000000E-05         # Yn(1)
 2   0.000000E+00         # Yn(2)
 3   0.000000E+00         # Yn(3)
 Block MNIN       #  
